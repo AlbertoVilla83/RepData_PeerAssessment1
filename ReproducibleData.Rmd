@@ -7,7 +7,7 @@ output:
 
 
 ## Loading and preprocessing the data
-
+The first step of the analysis is the read of the data. We can do it with the following command:
 
 
 ## What is mean total number of steps taken per day?
